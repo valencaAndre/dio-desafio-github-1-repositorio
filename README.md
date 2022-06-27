@@ -2,5 +2,5 @@
 Desafio de  projeto git/github dio
 
 ## Links úteis
- [sintaxe básica markdown](https://markdown.net.br/sintaxe-basica/) <br />
- [comandos básicos GIT](https://comandosgit.github.io/)
+ [Sintaxe básica markdown](https://markdown.net.br/sintaxe-basica/) <br />
+ [Comandos básicos GIT](https://comandosgit.github.io/)
